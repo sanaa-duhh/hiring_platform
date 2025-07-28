@@ -1,0 +1,14 @@
+com\example\Connection\DataBaseSetup.class
+com\example\Main.class
+com\example\ResponseEntity\AcceptanceRateResponse.class
+com\example\Enums\Gender.class
+com\example\Connection\ConnectionManager.class
+com\example\Queries\Queries.class
+com\example\ResponseEntity\ApplicationStatusOfCandidate.class
+com\example\Enums\OfferStatus.class
+com\example\Enums\JobStatus.class
+com\example\Enums\InterviewResult.class
+com\example\ResponseEntity\CandidateResponse.class
+com\example\Enums\InterviewStatus.class
+com\example\ResponseEntity\JobResponse.class
+com\example\ResponseEntity\InterviewSchedules.class

@@ -2,6 +2,7 @@ package com.example;
 
 import com.example.Connection.ConnectionManager;
 import com.example.Connection.DataBaseSetup;
+import com.example.Queries.Queries;
 import com.example.ResponseEntity.CandidateResponse;
 
 import java.sql.SQLException;
